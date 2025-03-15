@@ -4,8 +4,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Gmail Credentials
-GMAIL_USER = "naim.nayak0201@gmail.com"
-GMAIL_PASSWORD = "nwgx dfpw xerf jvea"  # Use an App Password if 2FA is enabled
+GMAIL_USER = "" # Enter your email
+GMAIL_PASSWORD = ""  # Use an App Password if 2FA is enabled
 
 # Email Subject & Body Template
 SUBJECT = "" #Enter your subject here 
